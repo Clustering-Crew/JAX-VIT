@@ -1,5 +1,4 @@
 # ViT Implementation using JAX and Flax
----
 
 In this repository, a working implementation of the Vision transformer using JAX framework is used. Additionally, the JAX wrapper used for building the neural nets is Flax.
 
